@@ -1,2 +1,2 @@
 # hello-world
-Practice with GitHub
+Practice with GitHub, repositories, branches, commits, and pull requests
